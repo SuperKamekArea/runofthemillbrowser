@@ -1,0 +1,5 @@
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\x64\Debug\Interop.ComctlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\x64\Debug\Interop.WMPLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\x64\Debug\Interop.XcpControlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\x64\Debug\AxInterop.WMPLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\x64\Debug\AxInterop.XcpControlLib.dll

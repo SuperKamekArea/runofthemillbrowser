@@ -1,0 +1,27 @@
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\Interop.ComctlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\Interop.WMPLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\Interop.XcpControlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\AxInterop.ComctlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\AxInterop.WMPLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\AxInterop.XcpControlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.csproj.ResolveComReference.cache
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run_of_the_mill_browser.Form1.resources
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run_of_the_mill_browser.Properties.Resources.resources
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.csproj.GenerateResource.cache
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.csproj.CoreCompileInputs.cache
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\run of the mill browser.exe.config
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\run of the mill browser.exe.manifest
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\run of the mill browser.application
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\run of the mill browser.exe
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\run of the mill browser.pdb
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\Interop.ComctlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\Interop.WMPLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\Interop.XcpControlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\AxInterop.ComctlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\AxInterop.WMPLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\bin\Debug\AxInterop.XcpControlLib.dll
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.exe.manifest
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.application
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.exe
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.pdb
+D:\runofthemillbrowser\run of the mill browser\run of the mill browser\obj\Debug\run of the mill browser.csproj.AssemblyReference.cache
